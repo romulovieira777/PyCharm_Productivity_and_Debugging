@@ -1,0 +1,3 @@
+Basic code completion: All methods, keywords and classes for the line code
+
+Smart code completion: More filtered suggestion. Take into Account the variables used in your code.
