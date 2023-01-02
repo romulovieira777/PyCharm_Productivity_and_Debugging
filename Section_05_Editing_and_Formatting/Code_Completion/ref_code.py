@@ -1,11 +1,7 @@
-from math import sqrt
-
-
-def tuple_distance(tuple1, tuple2):
-    return sqrt((tuple1[0] - tuple2[0]) ** 2 + (tuple1[1] - tuple2[1]) ** 2)
+from point import Point
 
 
 if __name__ == '__main__':
-    x = (1, 0)
-    y = (5, 3)
-    print(f"Distance between {x} and {y} is {tuple_distance(x, y)}")
+    p1 = Point(1, 0)
+    p2 = Point(5, 3)
+    print(f'Distance between {p1} and {p2} is {p1.distance(p2)}')

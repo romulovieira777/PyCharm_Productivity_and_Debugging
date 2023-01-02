@@ -7,4 +7,4 @@ def square(a):
 
 
 if __name__ == '__main__':
-    print(square(10))
+    square(10)
