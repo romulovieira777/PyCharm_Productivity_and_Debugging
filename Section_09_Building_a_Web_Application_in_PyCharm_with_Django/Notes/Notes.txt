@@ -1,0 +1,9 @@
+Setting the environment
+Creating a Django Project
+Create Django Apps
+Explore Django admin interface
+Django ORM
+
+npm(Node Package Manager)
+
+Software Tools: Python, Flask, Djangom Node.js
