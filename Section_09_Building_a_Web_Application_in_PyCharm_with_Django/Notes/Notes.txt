@@ -11,3 +11,23 @@ Software Tools: Python, Flask, Django, Node.js
 1. Add a new URL to tell Django when to display some content.
 2. Add a view that will be shown when the user accesses the URL.
 3. To add an HTML template (front-end) with the content we want to display.
+
+Bootstrap and Font Awesome
+
+nmp
+
+Creating new users
+—————————
+Create a form where new users can register
+——Username is required
+—— Email is required
+—— First and Last name also required
+—— Password required
+
+
+Cart requirements
+——————————
+—— Add as many items is you wish
+—— Ability to change the items in the cart
+—— Remove and edit items
+—— Every cart shall be related to a user
