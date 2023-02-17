@@ -7,3 +7,7 @@ Django ORM
 npm (Node Package Manager)
 
 Software Tools: Python, Flask, Django, Node.js
+
+1. Add a new URL to tell Django when to display some content.
+2. Add a view that will be shown when the user accesses the URL.
+3. To add an HTML template (front-end) with the content we want to display.
